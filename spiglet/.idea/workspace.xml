@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5001adca-dd24-4b23-98d6-b19327159db6" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1728639473">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Block" value="1" />
+          <entry key="JAVA/linearscan" value="1" />
+          <entry key="java" value="37" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="37" />
+          <entry key="UML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="16" />
+          <entry key="java" value="18590" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="18590" />
+          <entry key="PLAIN_TEXT" value="16" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/linearscan/Function.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3566">
+              <caret line="161" column="22" selection-start-line="161" selection-start-column="22" selection-end-line="161" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/linearscan/RegisterUsage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/linearscan/GenerateEnv.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1597">
+              <caret line="84" column="25" selection-start-line="84" selection-start-column="25" selection-end-line="84" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/linearscan/GenerateVisitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1408">
+              <caret line="64" column="20" selection-start-line="64" selection-start-column="20" selection-end-line="64" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/visitor/GJVoidDepthFirst.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="185" selection-start-line="185" selection-end-line="188" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/linearscan/Block.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="19" column="32" selection-start-line="9" selection-end-line="36" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/linearscan/LinearScan.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/linearscan">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>linearscan</OriginalElement>
+              <nodes>
+                <node x="0.0" y="0.0">linearscan.StatementType</node>
+                <node x="91.25" y="357.0">linearscan.RegularStatement</node>
+                <node x="155.0" y="91.5">linearscan.RegisterUsage</node>
+                <node x="398.0" y="368.5">linearscan.ReturnStatement</node>
+                <node x="398.0" y="57.0">linearscan.Statement</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="linearscan.ReturnStatement" target="linearscan.Statement">
+                  <point x="59.75" y="-132.0" />
+                  <point x="59.75" y="96.5" />
+                </edge>
+                <edge source="linearscan.RegularStatement" target="linearscan.StatementType">
+                  <point x="-79.66666666666669" y="-143.5" />
+                  <point x="131.08333333333331" y="337.0" />
+                  <point x="67.5" y="337.0" />
+                  <point x="0.0" y="153.5" />
+                </edge>
+                <edge source="linearscan.RegularStatement" target="linearscan.Statement">
+                  <point x="79.66666666666669" y="-143.5" />
+                  <point x="290.4166666666667" y="337.0" />
+                  <point x="457.75" y="337.0" />
+                  <point x="-59.75" y="96.5" />
+                </edge>
+                <edge source="linearscan.RegularStatement" target="linearscan.RegisterUsage">
+                  <point x="0.0" y="-143.5" />
+                  <point x="-55.75" y="62.0" />
+                </edge>
+                <edge source="linearscan.ReturnStatement" target="linearscan.RegisterUsage">
+                  <point x="-59.75" y="-132.0" />
+                  <point x="457.75" y="327.0" />
+                  <point x="322.25" y="327.0" />
+                  <point x="55.75" y="62.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.8249594813614263" x="-4.951866404715076" y="270.92337917485264" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+                <Category>Fields</Category>
+                <Category>Properties</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/linearscan.Block">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>linearscan.Block</OriginalElement>
+              <nodes>
+                <node x="0.0" y="0.0">linearscan.Block</node>
+              </nodes>
+              <notes />
+              <edges />
+              <settings layout="Hierarchic Group" zoom="1.0" x="-170.5" y="1.0" />
+              <SelectedNodes>
+                <node>linearscan.Block</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>StmtExp</find>
+      <find>Stmt</find>
+      <find>Label</find>
+      <find>equals</find>
+      <find>System.out</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/FabricMC/yarn" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/ForgeGradle-FG_3.0" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/MCPConfig" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/MCPConfig/versions/1.13.2/projects" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/forge-1.13.2-25.0.79-mdk" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/visitor/TranslateVisitor.java" />
+        <option value="$PROJECT_DIR$/src/Procedure.java" />
+        <option value="$PROJECT_DIR$/src/Function.java" />
+        <option value="$PROJECT_DIR$/src/visitor/BuildProcedureVisitor.java" />
+        <option value="$PROJECT_DIR$/src/regalloc/Function.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/visitor/BuildFunctionVisitor.java" />
+        <option value="$PROJECT_DIR$/src/linearscan/BuildFunctionVisitor.java" />
+        <option value="$PROJECT_DIR$/src/linearscan/VirtualRegister.java" />
+        <option value="$PROJECT_DIR$/src/linearscan/Block.java" />
+        <option value="$PROJECT_DIR$/src/linearscan/RegisterUsage.java" />
+        <option value="$PROJECT_DIR$/src/linearscan/StatementType.java" />
+        <option value="$PROJECT_DIR$/src/linearscan/StatementTypeVisitor.java" />
+        <option value="$PROJECT_DIR$/src/linearscan/TransEnv.java" />
+        <option value="$PROJECT_DIR$/src/linearscan/Statement.java" />
+        <option value="$PROJECT_DIR$/src/linearscan/RegularStatement.java" />
+        <option value="$PROJECT_DIR$/src/linearscan/ReturnStatement.java" />
+        <option value="$PROJECT_DIR$/src/linearscan/GenerateEnv.java" />
+        <option value="$PROJECT_DIR$/src/linearscan/RegisterUsageVisitor.java" />
+        <option value="$PROJECT_DIR$/src/linearscan/Interval.java" />
+        <option value="$PROJECT_DIR$/src/linearscan/GenerateVisitor.java" />
+        <option value="$PROJECT_DIR$/src/linearscan/Function.java" />
+        <option value="$PROJECT_DIR$/src/linearscan/LinearScan.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="172" />
+    <option name="y" value="12" />
+    <option name="width" value="935" />
+    <option name="height" value="668" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spiglet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spiglet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spiglet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spiglet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spiglet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spiglet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="linearscan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spiglet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spiglet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="visitor" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561034773607" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../report/Statement.png" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Compound.all">
+    <configuration name="BinaryTree" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="spiglet" />
+      <option name="PROGRAM_PARAMETERS" value="spg\BinaryTree.spg kg\BinaryTree.kg" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleSort" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="spiglet" />
+      <option name="PROGRAM_PARAMETERS" value="spg\BubbleSort.spg kg\BubbleSort.kg" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Factorial" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="spiglet" />
+      <option name="PROGRAM_PARAMETERS" value="spg\Factorial.spg kg\Factorial.kg" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearSearch" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="spiglet" />
+      <option name="PROGRAM_PARAMETERS" value="spg\LinearSearch.spg kg\LinearSearch.kg" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedList" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="spiglet" />
+      <option name="PROGRAM_PARAMETERS" value="spg\LinkedList.spg kg\LinkedList.kg" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoreThan4" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="spiglet" />
+      <option name="PROGRAM_PARAMETERS" value="spg\MoreThan4.spg kg\MoreThan4.kg" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="spiglet" />
+      <option name="PROGRAM_PARAMETERS" value="spg\QuickSort.spg kg\QuickSort.kg" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeVisitor" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="spiglet" />
+      <option name="PROGRAM_PARAMETERS" value="spg\TreeVisitor.spg kg\TreeVisitor.kg" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="all" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <toRun type="Application" name="BinaryTree" />
+      <toRun type="Application" name="BubbleSort" />
+      <toRun type="Application" name="Factorial" />
+      <toRun type="Application" name="LinearSearch" />
+      <toRun type="Application" name="LinkedList" />
+      <toRun type="Application" name="MoreThan4" />
+      <toRun type="Application" name="QuickSort" />
+      <toRun type="Application" name="TreeVisitor" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Factorial" />
+      <item itemvalue="Application.TreeVisitor" />
+      <item itemvalue="Application.BinaryTree" />
+      <item itemvalue="Application.BubbleSort" />
+      <item itemvalue="Application.LinearSearch" />
+      <item itemvalue="Application.LinkedList" />
+      <item itemvalue="Application.MoreThan4" />
+      <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Compound.all" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5001adca-dd24-4b23-98d6-b19327159db6" name="Default Changelist" comment="" />
+      <created>1559153413259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559153413259</updated>
+      <workItem from="1559153415165" duration="68844000" />
+      <workItem from="1559414801365" duration="177000" />
+      <workItem from="1561011778306" duration="8348000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="77369000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27324173" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3280142" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44685465" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/visitor/TranslateVisitor.java" />
+    <entry file="file://$PROJECT_DIR$/src/visitor/DepthFirstVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/visitor/GJNoArguVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/visitor/GJNoArguDepthFirst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1123">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/visitor/GJDepthFirst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="116" selection-start-line="116" selection-end-line="120" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearscan/VirtualRegister.java" />
+    <entry file="file://$PROJECT_DIR$/src/linearscan/BuildFunctionVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearscan/StatementTypeVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="65" column="69" selection-start-line="65" selection-start-column="69" selection-end-line="65" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearscan/StatementType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/syntaxtree/NodeListOptional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="25" column="53" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearscan/Statement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearscan/RegisterUsageVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearscan/RegularStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="65" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearscan/ReturnStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearscan/Interval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="43" column="47" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/linearscan.Block">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>linearscan.Block</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">linearscan.Block</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-170.5" y="1.0" />
+          <SelectedNodes>
+            <node>linearscan.Block</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/linearscan">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>linearscan</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">linearscan.StatementType</node>
+            <node x="91.25" y="357.0">linearscan.RegularStatement</node>
+            <node x="155.0" y="91.5">linearscan.RegisterUsage</node>
+            <node x="398.0" y="368.5">linearscan.ReturnStatement</node>
+            <node x="398.0" y="57.0">linearscan.Statement</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="linearscan.ReturnStatement" target="linearscan.Statement">
+              <point x="59.75" y="-132.0" />
+              <point x="59.75" y="96.5" />
+            </edge>
+            <edge source="linearscan.RegularStatement" target="linearscan.StatementType">
+              <point x="-79.66666666666669" y="-143.5" />
+              <point x="131.08333333333331" y="337.0" />
+              <point x="67.5" y="337.0" />
+              <point x="0.0" y="153.5" />
+            </edge>
+            <edge source="linearscan.RegularStatement" target="linearscan.Statement">
+              <point x="79.66666666666669" y="-143.5" />
+              <point x="290.4166666666667" y="337.0" />
+              <point x="457.75" y="337.0" />
+              <point x="-59.75" y="96.5" />
+            </edge>
+            <edge source="linearscan.RegularStatement" target="linearscan.RegisterUsage">
+              <point x="0.0" y="-143.5" />
+              <point x="-55.75" y="62.0" />
+            </edge>
+            <edge source="linearscan.ReturnStatement" target="linearscan.RegisterUsage">
+              <point x="-59.75" y="-132.0" />
+              <point x="457.75" y="327.0" />
+              <point x="322.25" y="327.0" />
+              <point x="55.75" y="62.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8249594813614263" x="-4.951866404715076" y="270.92337917485264" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Fields</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearscan/RegisterUsage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/visitor/GJVoidDepthFirst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="185" selection-start-line="185" selection-end-line="188" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearscan/Block.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="19" column="32" selection-start-line="9" selection-end-line="36" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearscan/LinearScan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearscan/GenerateEnv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1597">
+          <caret line="84" column="25" selection-start-line="84" selection-start-column="25" selection-end-line="84" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearscan/GenerateVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1408">
+          <caret line="64" column="20" selection-start-line="64" selection-start-column="20" selection-end-line="64" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linearscan/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3566">
+          <caret line="161" column="22" selection-start-line="161" selection-start-column="22" selection-end-line="161" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
